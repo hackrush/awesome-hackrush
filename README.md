@@ -7,7 +7,7 @@ Basic Curated List of Awesome stuff that will be learned and done during HackRus
 
 Maps
 --------
-* [MappyFirebase](https://hackrush.github.io/MappyFirebase/#dp9jjpffsl) - A realtime map using Firebase and MapBox Api - [Code](https://github.com/hackrush/MappyFirebase)
+* [MappyFirebase](https://hackrush.github.io/MappyFirebase) - A realtime map using Firebase and MapBox Api - [Code](https://github.com/hackrush/MappyFirebase)
 
 Bots
 ------
